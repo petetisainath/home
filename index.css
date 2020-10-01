@@ -96,7 +96,7 @@ progress::-moz-progress-bar {
     background: #efefef;
 }
 iframe, audio {
-    width:300px;
+    width:3000px;
     height:300px;
     display: block;
     margin: 0 auto;
