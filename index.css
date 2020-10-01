@@ -27,7 +27,7 @@ p {
 }
 .img-circle {
     border: 5px solid white;
-    border-radius: 100%;
+    border-radius: 25%;
 }
 .section {
     background-color: #fff;
