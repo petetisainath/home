@@ -26,7 +26,8 @@ p {
     margin: 0;
 }
 .img-circle {
-    circle-radius:50%;
+    hight:25px;
+    width:30px;
     border: 5px solid white;
     border-radius: 50%;
 }
