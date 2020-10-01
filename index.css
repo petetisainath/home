@@ -34,7 +34,7 @@ p {
 }
 .section {
     background-color: #fff;
-    padding: 150px;
+    padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
 }
@@ -96,8 +96,8 @@ progress::-moz-progress-bar {
     background: #efefef;
 }
 iframe, audio {
-    width:600px;
-    height:600px;
+    width:400px;
+    height:400px;
     display: block;
     margin: 0 auto;
     border: 3px solid #3fb6b2;
