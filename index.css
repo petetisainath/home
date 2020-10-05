@@ -135,13 +135,7 @@ input, textarea {
     width: 70%;
     outline: none;
 }
-.face {
-    transform: scale(0.4);
-    margin: 0 auto;
-    display: block;
-    margin-top: -35px;
-    margin-bottom: -25px;
-}
+
 #contacts img {
     height: 50px;
     width: 50px;
