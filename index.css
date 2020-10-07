@@ -36,8 +36,21 @@ p {
     border-radius: 10px;
 }
 #header {
-    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
-    background-size: cover;
+   width:70%;
+    hight:400px;
+    position:absolute:
+     left : 50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    background-image:url('https://photos.app.goo.gl/TJgeffsMfPR1Kzqw6');
+    background-size:100% 100%;
+    box-shadow:1px 2px 10px black;
+    animation:slider 9s infinite linear;
+}
+@keyframes slider{
+    0%{  background-image:url('https://photos.app.goo.gl/TJgeffsMfPR1Kzqw6'); }
+    35%{  background-image:url('https://photos.app.goo.gl/FRLrC6PDEk7WeKWB8'); }
+    75%{  background-image:url('https://photos.app.goo.gl/3VUxzqrdqGk4PPBL6'); }
 }
 #header img {
     display: block;
