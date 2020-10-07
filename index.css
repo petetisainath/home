@@ -32,9 +32,9 @@ p {
     border-radius: 10px;
 }
 #header {
-    width:70%;
+    width:100%;
     hight:60%;
-    position:absolute;
+    position: top;
     left:50%;
     top:50%;
     transform:translate(-50%,-50%);
