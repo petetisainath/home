@@ -35,7 +35,7 @@ p {
     margin-bottom: 10px;
     border-radius: 10px;
 }
-#header {
+#header section {
    width:70%;
     hight:400px;
     position:absolute:
@@ -52,12 +52,6 @@ p {
     35%{  background-image:url('https://photos.app.goo.gl/FRLrC6PDEk7WeKWB8'); }
     75%{  background-image:url('https://photos.app.goo.gl/3VUxzqrdqGk4PPBL6'); }
 }
-#header img {
-    display: block;
-    width: 200px;
-    height: 200px;
-    margin: auto;
-
 }
 #header p {
     font-size: 25pt;
