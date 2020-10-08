@@ -34,13 +34,12 @@ p {
 }
 #header {
      padding:150px;
-    background-image:url('https://dl.dropbox.com/s/v2jv4fi8b5g888r/1601892148286.jpg?dl=0');
     background-size:cover;
     box-shadow:1px 2px 10px black;
     animation:slider 9s infinite linear;
 }
 @keyframes slider{
-    0%{  background-image:url('https://dl.dropbox.com/s/v2jv4fi8b5g888r/1601892148286.jpg?dl=0'); }
+    0%{  background-image:url('https://dl.dropbox.com/s/1hgfqg93w4ig9ml/IMG_20200930_133837.jpg?dl=0'); }
     35%{  background-image:url('https://dl.dropbox.com/s/nb9rnvuaa93i04f/IMG-20200618.jpg?dl=0'); }
     75%{  background-image:url('https://dl.dropbox.com/s/c0ajkmki0ktzylm/IMG_20200926.jpg?dl=0'); }
 }
