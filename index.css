@@ -34,7 +34,7 @@ p {
 #header {
     width:100%;
     hight:60%;
-    position: top;
+    position: relative;
     left:50%;
     top:50%;
     background-image:url('https://dl.dropbox.com/s/v2jv4fi8b5g888r/1601892148286.jpg?dl=0');
