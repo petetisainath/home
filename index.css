@@ -17,10 +17,10 @@ body {
     border-radius: 10px;
 }
 #header {
-    width:50%;
-    hight:400px;
+    width:100%;
+    hight:50px;
     position: absolute;
-    left:50%;
+    left:0;
     top:50%;
     transform:translate(-50%,-50%);
     background-image:url('https://dl.dropbox.com/s/v2jv4fi8b5g888r/1601892148286.jpg?dl=0');
